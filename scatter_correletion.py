@@ -29,7 +29,7 @@ plt.yticks(fontsize=12)
 plt.title("Scatterplot of Midwest Area vs Population", fontsize=22)
 plt.legend(fontsize=12)
 plt.show()
-fig.savefig('Presentation/Files/Scatter/Scatter.pdf')
+
 
 # Prepare Data
 df = pd.read_csv("datasets/mtcars.csv")
@@ -69,7 +69,7 @@ plt.ylabel("Stage of Purchase")
 plt.yticks(fontsize=12)
 plt.title("Population Pyramid of the Marketing Funnel", fontsize=22)
 plt.legend()
-fig.savefig('Presentation/Files/Scatter/Population_pyramid.pdf')
+
 plt.show()
 
 # Import

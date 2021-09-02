@@ -50,4 +50,4 @@ ax.set_ylabel("Y Axis")
 ax.set_zlabel("Z Axis")
 ax.set_title("Lorenz Attractor")
 plt.show()
-fig.savefig('Presentation/Files/Lorenz/Lorenz1.pdf')
+
