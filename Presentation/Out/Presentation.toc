@@ -1,0 +1,8 @@
+\babel@toc {russian}{}
+\beamer@sectionintoc {1}{\IeC {\CYRI }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyri }\IeC {\cyrya }}{3}{0}{1}
+\beamer@sectionintoc {2}{\IeC {\CYRP }\IeC {\cyro }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre } \IeC {\cyrr }\IeC {\cyra }\IeC {\cyrz }\IeC {\cyrl }\IeC {\cyri }\IeC {\cyrch }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyrh } \IeC {\cyrg }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrf }\IeC {\cyri }\IeC {\cyrk }\IeC {\cyro }\IeC {\cyrv }}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{\IeC {\CYRP }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyre }\IeC {\cyrishrt }\IeC {\cyrsh }\IeC {\cyri }\IeC {\cyre } \IeC {\cyrg }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrf }\IeC {\cyri }\IeC {\cyrk }\IeC {\cyri }}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{\IeC {\CYRG }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrf }\IeC {\cyri }\IeC {\cyrk }\IeC {\cyri } \IeC {\cyrv } \IeC {\cyrp }\IeC {\cyro }\IeC {\cyrl }\IeC {\cyrya }\IeC {\cyrr }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyrh } \IeC {\cyrk }\IeC {\cyro }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyrd }\IeC {\cyri }\IeC {\cyrn }\IeC {\cyra }\IeC {\cyrt }\IeC {\cyra }\IeC {\cyrh }}{12}{0}{2}
+\beamer@subsectionintoc {2}{3}{Data science}{22}{0}{2}
+\beamer@subsectionintoc {2}{4}{Chaos theory}{26}{0}{2}
+\beamer@sectionintoc {3}{\IeC {\CYRR }\IeC {\cyre }\IeC {\cyrz }\IeC {\cyryu }\IeC {\cyrm }\IeC {\cyre }}{29}{0}{3}
